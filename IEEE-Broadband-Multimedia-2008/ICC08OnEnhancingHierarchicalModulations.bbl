@@ -1,0 +1,44 @@
+\begin{thebibliography}{1}
+
+\bibitem{DVB}
+DVB Project.
+\newblock Dvb terrestrial (dvb-t): Hierarchical modulation.
+\newblock {\em http://www.dvb.org/}, March 2000.
+
+\bibitem{MediaFLO}
+FLO Forum and Qualcomm.
+\newblock Flo technology overview: Revolutionizing multimedia.
+\newblock {\em http://www.floforum.org/}, 2007.
+
+\bibitem{Jiang05}
+H.~Jiang and P.~A. Wilford.
+\newblock A hierarchical modulation for upgrading digital broadcast systems.
+\newblock {\em IEEE Transaction On Broadcasting}, 51(2):223-- 229, June 2005.
+
+\bibitem{UMB}
+3GPP2.
+\newblock Ultra mobile broad physical layer.
+\newblock {\em C.P0084-001}, February 2007.
+
+\bibitem{Cover72}
+T.~Cover.
+\newblock Broadcast channels.
+\newblock {\em IEEE Trans. Information Theory}, 18:2--14, January 1972.
+
+\bibitem{Unge82}
+G.~Ungerboeck.
+\newblock Channel coding with multilevel/phase signals.
+\newblock {\em IEEE Trans. Information Theory}, 28:55--67, January 1982.
+
+\bibitem{Huber94}
+J.~Huber and U.~Wachsmann.
+\newblock Capacities of equivalent channels in multilevel coding schemes.
+\newblock {\em Electronics Letters}, 30(7):557--558, March 1994.
+
+\bibitem{Vitt03}
+P.~K. Vitthaladevuni and M.-S. Alouini.
+\newblock A recursive algorithm for the exact ber computation of generalized
+  hierarchical qam constellations.
+\newblock {\em IEEE Trans. Information Theory}, 49(1):297--307, January 2003.
+
+\end{thebibliography}
