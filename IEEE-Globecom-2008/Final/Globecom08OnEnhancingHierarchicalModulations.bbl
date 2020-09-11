@@ -1,0 +1,29 @@
+\begin{thebibliography}{1}
+
+\bibitem{UMB}
+3GPP2.
+\newblock Ultra mobile broad physical layer.
+\newblock {\em C.P0084-001}, February 2007.
+
+\bibitem{Cover72}
+T.~Cover.
+\newblock Broadcast channels.
+\newblock {\em IEEE Trans. Information Theory}, 18:2--14, January 1972.
+
+\bibitem{Unge82}
+G.~Ungerboeck.
+\newblock Channel coding with multilevel/phase signals.
+\newblock {\em IEEE Trans. Information Theory}, 28:55--67, January 1982.
+
+\bibitem{Huber94}
+J.~Huber and U.~Wachsmann.
+\newblock Capacities of equivalent channels in multilevel coding schemes.
+\newblock {\em Electronics Letters}, 30(7):557--558, March 1994.
+
+\bibitem{Tong04}
+L.~Tong\texttt{,}B.~M. Sadler and M.~Dong.
+\newblock Pilot-assisted wireless transmissions: general model, design
+  criteria, and signal processing.
+\newblock {\em IEEE Signal Processing Mag.}, 21(56):12--25, November 2004.
+
+\end{thebibliography}
